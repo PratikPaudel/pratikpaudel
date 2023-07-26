@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Paudel</h1>
+<h1 align="center">Hi 👋, I'm Pratik Paudel.</h1>
 <h3 align="center">a first-gen computer science and graphics design student who loves both frontend and backend engineering.</h3> <br>
 
 - 🔭 I’m currently working on: [.NET framework (redesigning college's website)](https://www.nwciowa.edu/)
