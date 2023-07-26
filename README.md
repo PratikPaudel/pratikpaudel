@@ -31,10 +31,16 @@
 
 <br> 
 <br>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpaudel&show_icons=true&locale=en&layout=compact" alt="pratikpaudel" /></p>
-<br> <p align="right"> <img src="https://github-profile-trophy.vercel.app/?username=pratikpaudel&title=Stars,Commit,Followers,Repositories,PullRequest&row=1&column=5&theme=nord&no-bg=true" alt="pratikpaudel"/> </p>
+
+
+<div style="width: 50%; float: left;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpaudel&show_icons=true&locale=en&layout=compact" alt="pratikpaudel" />
 </div>
+
+<div style="width: 50%; float: right;">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikpaudel&title=Stars,Commit,Followers,Repositories,PullRequest&row=1&column=5&theme=nord&no-bg=true" alt="pratikpaudel" />
+</div>
+
 
 <br> 
 <br>
