@@ -35,7 +35,7 @@
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 200px;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpaudel&show_icons=true&locale=en&layout=compact" alt="pratikpaudel" />
-  </div>
+
 
   <div style="flex: 1; min-width: 200px;">
     <img src="https://github-profile-trophy.vercel.app/?username=pratikpaudel&title=Stars,Commit,Followers,Repositories,PullRequest&row=1&column=5&theme=nord&no-bg=true" alt="pratikpaudel" />
