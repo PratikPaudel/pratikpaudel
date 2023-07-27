@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on: **Software engineering, Machine learning, and Full stack web development**
 
-- 👨‍💻 All of my projects are available at: [https://pratikpaudel.myportfolio.com/](https://pratikpaudel.myportfolio.com/)
+- 👨‍💻 All of my projects are available at: <a href="https://github.com/PratikPaudel"> Github </a> & [https://pratikpaudel.myportfolio.com/](https://pratikpaudel.myportfolio.com/)
 
 - 💬 Ask me about: **Web development, Programming, Data structures and algorithms, Computer Science, Self-hosting...**
 
