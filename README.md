@@ -46,10 +46,3 @@
 <br> 
 <br>
 
-<p align="left" style="margin-top: 50px;"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=pratikpaudel&title=Stars,Commit,Followers,Repositories,PullRequest&row=1&column=5&theme=nord&no-bg=true" alt="pratikpaudel"  />
-</p>
-
-  <div align="left">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpaudel&" alt="pratikpaudel" /></p>
-</div>
