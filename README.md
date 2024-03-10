@@ -25,6 +25,8 @@
 <a href="https://www.youtube.com/@pratikkkpaudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@pratikkkpaudel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratikkkpaudel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pratikkkpaudel/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prateekpaudel201" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prateekpaudel201" height="40" width="50" /> </a>
+<a href="https://codepen.io/PratikPaudel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/PratikPaudel" height="40" width="50" /> </a>
+  
   
 </p>
 <br> 
