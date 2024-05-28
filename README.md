@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratik Paudel.</h1>
 <h3 align="center">a first-gen computer science and graphics design student who loves both frontend and backend engineering.</h3> <br>
 
-- 🔭 I’m currently working on: [.NET framework (redesigning college's website)](https://www.nwciowa.edu/)
+- 🔭 I’m currently working on: [Vermeer one Platform](https://(https://www.vermeer.com/na))
 
-- 🌱 I’m currently learning: **C#, React, Data Structures**
+- 🌱 I’m currently learning: **C#, Angular, Data Structures, .NET**
 
 - 👯 I’m looking to collaborate on: **Software engineering, Machine learning, and Full stack web development**
 
