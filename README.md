@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Paudel.</h1>
 <h3 align="center">a first-gen computer science and graphics design student who loves both frontend and backend engineering.</h3> <br>
 
-- 🔭 I’m currently working on: [Vermeer one Platform](https://(https://www.vermeer.com/na))
+- 🔭 I’m currently working on: [Vermeer one Platform](https://www.vermeer.com/na)
 
 - 🌱 I’m currently learning: **C#, Angular, Data Structures, .NET**
 
