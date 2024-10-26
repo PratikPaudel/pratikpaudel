@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pratik Paudel.</h1>
 <h3 align="center">a first-gen computer science and graphics design student who loves both frontend and backend engineering.</h3> <br>
 
-- 🔭 I’m currently working on: [Vermeer one Platform](https://www.vermeer.com/na)
+- 🔭 I’m currently working on: [Vermeer one Platform](https://one.vermeer.com)
 
-- 🌱 I’m currently learning: **C#, Angular, Data Structures, .NET**
+- 🌱 I’m currently learning: **Full Stack Development, Angular, Data Structures, .NET**
 
 - 👯 I’m looking to collaborate on: **Software engineering, Machine learning, and Full stack web development**
 
-- 👨‍💻 All of my projects are available at: <a href="https://github.com/PratikPaudel"> Github </a> & [https://pratikpaudel.myportfolio.com/](https://pratikpaudel.myportfolio.com/)
+- 👨‍💻 All of my projects are available at: <a href="https://github.com/PratikPaudel"> Github </a> & [https://pratikpaudel.com/](https://pratikpaudel.com/)
 
-- 💬 Ask me about: **Web development, Programming, Data structures and algorithms, Computer Science, Self-hosting...**
+- 💬 Ask me about: **Web development, Programming, Data structures and algorithms, Computer Science, Self-hosting, Video Editing, Graphic Designing...**
 
 - 📫 How to reach me: **prateekpaudel2017@gmail.com || pratik.paudel@nwciowa.edu (school email)**
 
@@ -17,12 +17,12 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/pratikpaudel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pratikpaudel/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/heypratikpaudel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heypratikpaudel/" height="30" width="40" /></a>
-<a href="https://www.behance.net/heypratikpaudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/heypratikpaudel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@pratikkkpaudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@pratikkkpaudel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratikkkpaudel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pratikpaudel/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prateekpaudel201" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prateekpaudel201" height="40" width="50" /> </a>
+<a href="https://codepen.io/pratikpaudel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pratikpaudel/" height="30" width="40" /></a>
+<a href="https://www.behance.net/heypratikpaudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/heypratikpaudel" height="30" width="40" /></a>
  
   
 </p>
