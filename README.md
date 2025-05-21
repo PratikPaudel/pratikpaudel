@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pratik Paudel.</h1>
 <h3 align="center">a first-gen computer science and graphics design student who loves both frontend and backend engineering.</h3> <br>
 
-- 🔭 I’m currently working on: [Vermeer one Platform](https://one.vermeer.com)
-
-- 🌱 I’m currently learning: **Full Stack Development, Angular, Data Structures, .NET**
-
 - 👯 I’m looking to collaborate on: **Software engineering, Machine learning, and Full stack web development**
 
 - 👨‍💻 All of my projects are available at: <a href="https://github.com/PratikPaudel"> Github </a> & [https://pratikpaudel.com/](https://pratikpaudel.com/)
 
 - 💬 Ask me about: **Web development, Programming, Data structures and algorithms, Computer Science, Self-hosting, Video Editing, Graphic Designing...**
 
-- 📫 How to reach me: **prateekpaudel2017@gmail.com || pratik.paudel@nwciowa.edu (school email)**
-
-- ⚡ Fun fact: **I'm passionate about the mesmerizing world of visual effects!**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
